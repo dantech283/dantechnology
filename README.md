@@ -1,4 +1,4 @@
-!DOCTYPE html>
+DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -114,34 +114,4 @@
       <li>🎉 Custom Birthday Card Designs</li>
       <li>🎨 Business Logo Creation</li>
       <li>🧾 Accurate & Fast Data Entry Services</li>
-      <li>🎬 Video Editing for Social Media & Promotions</li>
-      <li>🌍 Online Course Support for Clients Overseas</li>
-    </ul>
-  </section>
-
-  <section id="gallery" class="section gallery">
-    <h2>Gallery</h2>
-    <p>See some of our past work:</p>
-    <img src="https://via.placeholder.com/300x200" alt="Sample 1" />
-    <img src="https://via.placeholder.com/300x200" alt="Sample 2" />
-    <img src="https://via.placeholder.com/300x200" alt="Sample 3" />
-  </section>
-
-  <section id="contact" class="section contact">
-    <h2>Contact Us</h2>
-    <p><strong>Phone:</strong> 07034646828</p>
-    <p><strong>Address:</strong> Block 13, House 15, Housing Estate, Ikangba, Ijebu Ode, Ogun State, Nigeria</p>
-    <form>
-      <input type="text" placeholder="Your Name" required />
-      <input type="email" placeholder="Your Email" required />
-      <textarea placeholder="Your Message" rows="5" required></textarea>
-      <button type="submit">Send Message</button>
-    </form>
-  </section>
-
-  <div class="footer">
-    <p>&copy; 2025 Dantechnology. All rights reserved.</p>
-  </div>
-
-</body>
-</html>
+      
