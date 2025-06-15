@@ -1,0 +1,59 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.hero {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.hero-bg {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+    opacity: 0.8;
+}
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.logo {
+    width: 100px;
+}
+.navbar {
+    background: #004080;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+section {
+    padding: 2em;
+}
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1em;
+}
+.service img, .ceo-photo {
+    width: 100%;
+    border-radius: 10px;
+}
+footer {
+    background: #f4f4f4;
+    padding: 2em;
+    text-align: center;
+}
+.social-icons img {
+    width: 40px;
+    margin: 0 10px;
+}
